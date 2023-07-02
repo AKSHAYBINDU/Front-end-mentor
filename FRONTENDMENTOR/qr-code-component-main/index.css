@@ -1,0 +1,39 @@
+body{
+    background-color: hsl(219, 88%, 94%);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+  
+}
+
+img{
+    height: 300px;
+    border-radius: 10px;
+    
+}
+
+.hero{
+   width: 300px;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 1em;
+    align-items: center;
+    box-shadow:  5px 10px 10px #a9b6f9;
+}
+
+.text{
+    text-align: center;
+    font-family: sans-serif;
+}
+h2{
+    font-weight: bolder;
+    color:  hsl(218, 44%, 22%);
+}
+p{
+    font-size: 20pxpx;
+    color: hwb(0 65% 35%);
+}
